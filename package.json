@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-es-api-scaffold",
+  "version": "1.0.0",
+  "description": "NodeJS ES scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diskett101/nodejs-es-api-scaffold.git"
+  },
+  "author": "Melvin Empleo <melvin.empleo.test@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diskett101/nodejs-es-api-scaffold/issues"
+  },
+  "homepage": "https://github.com/diskett101/nodejs-es-api-scaffold#readme"
+}
